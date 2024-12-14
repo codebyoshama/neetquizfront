@@ -1,0 +1,15 @@
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+  margin: 0;
+}
+
+/* Style the button */
+.center-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
